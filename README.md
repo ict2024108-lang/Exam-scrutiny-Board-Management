@@ -1,7 +1,7 @@
 # Scrutiny Board Management System (web)
 Rajarata University of Sri Lanka - Faculty of Applied Sciences. Node.js + Express + MySQL 8, browser UI.
 
-## Run it   Right clic project folder & open terminal
+## Run it   Right click project folder & open terminal
 1. Install Node.js 18+ and MySQL 8 (the password used by default is `1234` for user `root`).
 2. `npm install`
 3. `npm run setup-db`   (creates `ScrutinyBoardDB` with sample data. WARNING: drops any existing database of that name)
